@@ -25,4 +25,4 @@ Este desafio consiste em criar uma lógica em **JavaScript** para classificar um
 
 ### **Exemplo de Saída**
 ```bash
-O Herói de nome Aragorn está no nível de Ascendente
+O Herói de nome Lux está no nível de Ascendente
